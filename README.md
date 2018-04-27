@@ -8,4 +8,5 @@
 
 
 ###### Datenbank: Postgres
-###### Pattern: Observer Pattern
+###### Pattern: Observer Pattern & Factory Pattern
+###### Framework: Java Enterprice
