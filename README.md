@@ -1,6 +1,6 @@
 ## Sew-Team 
 ###### Netrwal: Client
-###### Semih: Oberfläche
+###### Semih: Graphische Oberfläche
 ###### Kreibich: Datenbank
 ###### Cheema: Doku
 ###### Elias: Server
