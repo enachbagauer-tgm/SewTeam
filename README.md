@@ -4,7 +4,6 @@
 ###### Kreibich: Datenbank
 ###### Cheema: Doku
 ###### Elias: Server
-###### Gomaa: Tests 
 
 
 ###### Datenbank: Postgres
