@@ -9,4 +9,4 @@
 
 ###### Datenbank: Postgres
 ###### Pattern: Observer Pattern & Factory Pattern
-###### Framework: Java Enterprice
+###### Framework: Java EE
