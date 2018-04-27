@@ -1,10 +1,10 @@
 ## Sew-Team 
-###### Netrwal: Client
+###### Netrwal: Client Logik 
 ###### Semih: Graphische Oberfläche
 ###### Kreibich: Datenbank
 ###### Cheema: Doku
 ###### Elias: Server
-###### Gomaa: Tests
+###### Gomaa: Tests 
 
 
 ###### Datenbank: Postgres
