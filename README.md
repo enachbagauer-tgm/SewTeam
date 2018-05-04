@@ -10,3 +10,4 @@
 ###### Pattern: Observer Pattern & Factory Pattern
 ###### Framework: Java EE
 ###### Zeit: 10 + x Stunden 
+[Arbeitszeitaufzeichnung](https://docs.google.com/spreadsheets/d/1xbXwdrhSTyLNaKgixNkHNZJ1X1zLiTHzkQrLvrI_70I/edit?usp=sharing)
