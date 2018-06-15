@@ -63,4 +63,5 @@ Team:
 * Semih Cakir
 * Moritz Netrwal
 
+Zeitaufzeichnungen; https://docs.google.com/spreadsheets/d/1xbXwdrhSTyLNaKgixNkHNZJ1X1zLiTHzkQrLvrI_70I/edit#gid=35006199
 
