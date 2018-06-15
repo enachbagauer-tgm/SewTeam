@@ -1,6 +1,5 @@
 # Terminreservierungssystem
-## Aufgabenbeschreibung
-### Aufgabenstellung
+## Aufgabenstellung
 
 Entwickeln Sie eine grafische Applikation, welches das Terminvereinbarungssystem realisiert. Bei der Abgabe müssen Sie die Aufgabe auf mindestens drei Rechnern (mit mehreren gleichzeitig gestarteten Clients) präsentieren.
 
